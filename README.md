@@ -8,4 +8,15 @@ Labs for the course on Meta Learning at BITS-Goa
 
 ------
 
+### Staff
+#### Instructors
+
+- [Gautam Shroff](https://www.linkedin.com/in/gautam-shroff-066901/)
+- [Tirtharaj Dash](https://tirtharajdash.github.io/)
+
+#### Teaching Assistants
+
+- [Sharad Chitlangia](https://www.sharadchitlang.ai/)
+- [Aditya Ahuja](https://adiah80.github.io/)
+
 The initial part of the coursework (on Deep Learning) has been adapted from Yann LeCun and Alfredo Canziani's course on [Deep Learning at NYU](https://atcold.github.io/pytorch-Deep-Learning/)
