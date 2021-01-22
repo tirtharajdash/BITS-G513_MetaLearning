@@ -1,4 +1,4 @@
-# BITS-G513_MetaLearning
+# Meta Learning (BITS G513)
 Labs for the course on Meta Learning at BITS-Goa
 
 #### Lab 1
