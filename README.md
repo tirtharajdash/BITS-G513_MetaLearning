@@ -13,6 +13,12 @@ Labs for the course on Meta Learning at BITS-Goa
 - [2B: Deep Learning - With Pytorch ](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Lab_2B.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tirtharajdash/BITS-G513_MetaLearning/blob/main/Lab_2B.ipynb)
 
 
+#### Lab 3
+- [3A: Introduction to Convolutions and 1D Convolutions](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Lab_3A.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tirtharajdash/BITS-G513_MetaLearning/blob/main/Lab_3A.ipynb)
+
+- [3B: CNNs and 2D Convolutions ](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Lab_3B.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tirtharajdash/BITS-G513_MetaLearning/blob/main/Lab_3B.ipynb)
+
+
 ------
 
 ### Staff
