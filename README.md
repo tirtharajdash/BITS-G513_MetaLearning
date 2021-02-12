@@ -20,6 +20,8 @@ Labs for the course on Meta Learning at BITS-Goa
 
 #### Lab 4
 - [4A: Convolution on Real Audio, 1D CNN based Emotion Classification](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Lab_4A.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tirtharajdash/BITS-G513_MetaLearning/blob/main/Lab_4A.ipynb)
+- [4B: Transfer Learning and FineTuning Pre-Trained models](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Lab_4B.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tirtharajdash/BITS-G513_MetaLearning/blob/main/Lab_4B.ipynb)
+
 
 ------
 
