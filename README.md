@@ -1,27 +1,49 @@
 # Meta Learning (BITS G513)
 Labs for the course on Meta Learning at BITS-Goa
 
-#### Lab 1
-- [1A: Basic Gradient Computation. Leaf and Non-Leaf Variables](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Lab_1A.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tirtharajdash/BITS-G513_MetaLearning/blob/main/Lab_1A.ipynb)
+## Week 1
+### Tutorial
+- [Slides](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Tutorials/Week1/main.pdf)
+- [Summary](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Tutorials/Week1/week1_summary.pdf)
 
-- [1B: Simple Classification and Regression](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Lab_1B.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tirtharajdash/BITS-G513_MetaLearning/blob/main/Lab_1B.ipynb)
+### Lab
+- [1A: Basic Gradient Computation. Leaf and Non-Leaf Variables](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Labs/Lab_1A.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tirtharajdash/BITS-G513_MetaLearning/blob/main/Labs/Lab_1A.ipynb)
+
+- [1B: Simple Classification and Regression](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Labs/Lab_1B.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tirtharajdash/BITS-G513_MetaLearning/blob/main/Labs/Lab_1B.ipynb)
 
 
-#### Lab 2
-- [2A: Deep Learning - Gradient Descent and Backpropagation](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Lab_2A.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tirtharajdash/BITS-G513_MetaLearning/blob/main/Lab_2A.ipynb)
+## Week 2
+### Tutorial
+- [Slides](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Tutorials/Week2/main.pdf)
+- [Summary](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Tutorials/Week2/week2_summary.pdf)
 
-- [2B: Deep Learning - With Pytorch ](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Lab_2B.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tirtharajdash/BITS-G513_MetaLearning/blob/main/Lab_2B.ipynb)
+### Lab
+- [2A: Deep Learning - Gradient Descent and Backpropagation](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Labs/Lab_2A.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tirtharajdash/BITS-G513_MetaLearning/blob/main/Labs/Lab_2A.ipynb)
+
+- [2B: Deep Learning - With Pytorch ](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Labs/Lab_2B.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tirtharajdash/BITS-G513_MetaLearning/blob/main/Labs/Lab_2B.ipynb)
+
+## Week 3
+### Tutorial
+- [Slides](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Tutorials/Week3/CNN%20Examples_TD.pdf)
+- [Summary](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Tutorials/Week3/week3_summary.pdf)
+
+### Lab
+- [3A: Introduction to Convolutions and 1D Convolutions](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Labs/Lab_3A.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tirtharajdash/BITS-G513_MetaLearning/blob/main/Labs/Lab_3A.ipynb)
+
+- [3B: CNNs and 2D Convolutions ](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Labs/Lab_3B.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tirtharajdash/BITS-G513_MetaLearning/blob/main/Labs/Lab_3B.ipynb)
+
+## Week 4
+### Tutorial
+- [Slides](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Tutorials/Week4/cnn_backprop.pdf)
+- [Summary](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Tutorials/Week4/week4_summary.pdf)
+
+### Lab
+- [4A: Convolution on Real Audio, 1D CNN based Emotion Classification](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Labs/Lab_4A.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tirtharajdash/BITS-G513_MetaLearning/blob/main/Labs/Lab_4A.ipynb)
 
 
-#### Lab 3
-- [3A: Introduction to Convolutions and 1D Convolutions](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Lab_3A.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tirtharajdash/BITS-G513_MetaLearning/blob/main/Lab_3A.ipynb)
-
-- [3B: CNNs and 2D Convolutions ](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Lab_3B.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tirtharajdash/BITS-G513_MetaLearning/blob/main/Lab_3B.ipynb)
-
-#### Lab 4
-- [4A: Convolution on Real Audio, 1D CNN based Emotion Classification](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Lab_4A.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tirtharajdash/BITS-G513_MetaLearning/blob/main/Lab_4A.ipynb)
-- [4B: Transfer Learning and FineTuning Pre-Trained models](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Lab_4B.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tirtharajdash/BITS-G513_MetaLearning/blob/main/Lab_4B.ipynb)
-
+## Week 5
+### Lab
+- [5: Transfer Learning and FineTuning Pre-Trained models](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Labs/Lab_4B.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tirtharajdash/BITS-G513_MetaLearning/blob/main/Labs/Lab_4B.ipynb)
 
 ------
 
