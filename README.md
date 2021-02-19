@@ -62,3 +62,8 @@ Meta Learning Course Material (Spring 2021, at BITS-Goa)
 - [Aditya Ahuja](https://adiah80.github.io/)
 
 The initial part of the coursework (on Deep Learning) has been adapted from Yann LeCun and Alfredo Canziani's course on [Deep Learning at NYU](https://atcold.github.io/pytorch-Deep-Learning/)
+
+
+#### Google group
+
+A non-public group to communicate some course specific messages is created: [Join/View](https://groups.google.com/u/1/g/meta-learning-2021)
