@@ -43,6 +43,8 @@ Meta Learning Course Material (Spring 2021, at BITS-Goa)
 
 
 ## Week 5
+### Tutorial
+- [Summary](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Tutorials/Week5/week5_summary.pdf)
 ### Lab
 - [5: Transfer Learning and FineTuning Pre-Trained models](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Labs/Lab_4B.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tirtharajdash/BITS-G513_MetaLearning/blob/main/Labs/Lab_4B.ipynb)
 
