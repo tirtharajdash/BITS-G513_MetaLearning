@@ -1,5 +1,6 @@
 # Meta Learning (BITS G513)
-Labs for the course on Meta Learning at BITS-Goa
+
+Meta Learning Course Material (Spring 2021, at BITS-Goa)
 
 ## Week 1
 ### Tutorial
