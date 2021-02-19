@@ -39,7 +39,7 @@ Meta Learning Course Material (Spring 2021, at BITS-Goa)
 - [Summary](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Tutorials/Week4/week4_summary.pdf)
 
 ### Lab
-- [4A: Convolution on Real Audio, 1D CNN based Emotion Classification](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Labs/Lab_4A.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tirtharajdash/BITS-G513_MetaLearning/blob/main/Labs/Lab_4A.ipynb)
+- [4: Convolution on Real Audio, 1D CNN based Emotion Classification](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Labs/Lab_4A.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tirtharajdash/BITS-G513_MetaLearning/blob/main/Labs/Lab_4A.ipynb)
 
 
 ## Week 5
