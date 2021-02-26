@@ -53,6 +53,7 @@ Meta Learning Course Material (Spring 2021, at BITS-Goa)
 
 ### Lab
 - [6A: SGD + Momentum and BatchNorm experiments](https://github.com/tirtharajdash/BITS-G513_MetaLearning/blob/main/Labs/Lab_5_6A.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tirtharajdash/BITS-G513_MetaLearning/blob/main/Labs/Lab_5_6A.ipynb)
+- [6B: AdaGrad, RMSprop, Adam, Optimizer Benchmarking](https://colab.research.google.com/github/tirtharajdash/BITS-G513_MetaLearning/blob/main/Labs/Lab_6B.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tirtharajdash/BITS-G513_MetaLearning/blob/main/Labs/Lab_6B.ipynb)
 
 ------
 
